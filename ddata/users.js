@@ -1,0 +1,34 @@
+export const users=[
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugasdadadad",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        user:"sugashaw",
+        image:"https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    }
+];
